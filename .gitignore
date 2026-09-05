@@ -74,13 +74,3 @@ Plugins/**/Intermediate/*
 DerivedDataCache/*
 
 
-# _ForTest 폴더 및 그 내부 모든 하위 폴더/파일 추적 허용
-!_ForTest/
-!_ForTest/**
-
-# 확장자 예외
-!_ForTest/**/*.exe
-!_ForTest/**/*.dll
-!_ForTest/**/*.pak
-!_ForTest/**/*.ucas
-!_ForTest/**/*.utoc
